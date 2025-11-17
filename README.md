@@ -305,4 +305,4 @@ Stoyan Zhekov <zh@zhware.net>
 
 ## Support
 
-Report issues at: https://github.com/agileware/redmine_extended_api/issues
+Report issues at: https://github.com/zh/redmine_extended_api/issues

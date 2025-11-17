@@ -22,7 +22,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Made all API features globally available (removed per-project module requirement)
 - `bulk_create_time_entries` is now a global permission instead of project-scoped
 - Added permission enforcement for `bulk_create_time_entries` in the controller
-- Migrated test suite from Test::Unit to RSpec for consistency with other Agileware plugins
 - Replaced fixture-based testing with FactoryBot for more flexible and maintainable test data
 - Implemented HTTP Basic authentication in tests to match Redmine API patterns
 - Enhanced permission checking to require explicit project membership for time logging
@@ -78,4 +77,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Detailed parameter descriptions
 - HTTP status code reference
 
-[1.0.0]: https://github.com/agileware/redmine_extended_api/releases/tag/v1.0.0
+[1.0.0]: https://github.com/zh/redmine_extended_api/releases/tag/v1.0.0
