@@ -12,7 +12,7 @@ Adds missing REST API endpoints to Redmine 6.1.x (globally available):
 
 ```bash
 cd /path/to/redmine/plugins
-git clone https://github.com/agileware/redmine_extended_api.git
+git clone https://github.com/zh/redmine_extended_api.git
 cd /path/to/redmine
 bundle install
 bundle exec rake redmine:plugins:migrate RAILS_ENV=production
