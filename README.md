@@ -301,7 +301,7 @@ MIT License
 
 ## Author
 
-Agileware - https://agileware.com
+Stoyan Zhekov <zh@zhware.net>
 
 ## Support
 
