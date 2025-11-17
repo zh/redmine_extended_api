@@ -1,0 +1,54 @@
+# Environment variables
+.env
+.env.local
+
+# Ruby version managers
+.ruby-version
+.ruby-gemset
+.rvmrc
+
+# Bundler
+/.bundle/
+/vendor/bundle/
+
+# Logs
+*.log
+/log/*
+
+# Temporary files
+/tmp/*
+*.tmp
+*.swp
+*.swo
+*~
+*.bak
+*.bak[0-9]
+*.bak[0-9][0-9]
+*.backup
+
+# IDE and editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+.DS_Store
+
+# RSpec
+/spec/examples.txt
+/coverage/
+
+# Pry history
+.pry_history
+
+# VCR cassettes (if containing sensitive data)
+/spec/fixtures/vcr_cassettes/
+
+# Gem packaging
+/*.gem
+/.yardoc/
+/doc/
+/rdoc/
+/pkg/
+
+# Test artifacts
+/.rspec_status
